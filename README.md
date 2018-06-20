@@ -1,0 +1,2 @@
+# FyreBot
+Discord Bot
